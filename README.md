@@ -1,8 +1,9 @@
-<<<<<<< HEAD
 
-**Status:** Evidence-only (Postman exports unavailable)  
-This repository documents Sprint 4 API testing work for **Urban Grocers (Kits)** and **Fast Delivery**, using **JSON** payloads.
 
+
+## This repository documents Sprint 4 API testing work for **Urban Grocers (Kits)** and **Fast Delivery**, using **JSON** payloads.
+
+##### Status: Evidence-only (Postman exports unavailable)  
 ---
 
 ## 🧪 Coverage Summary
@@ -57,15 +58,8 @@ This repository documents Sprint 4 API testing work for **Urban Grocers (Kits)**
 - Covers **functional, positive, and negative test scenarios**.  
 - Test results are fully documented and accessible via the linked Google Sheet.
 
-## 📄 Test Evidence
-- All test cases executed using **JSON payloads**.
-- Positive and negative scenarios covered.
-- Detailed test cases, execution results, and status documented in Google Sheets:  
-[📎 Sprint 4 Test Cases (JSON)](https://docs.google.com/spreadsheets/d/1EIoT3fpPra5E0-Ac9f7rUX0_qLcpxwEIY0Y8g8NbtMI/edit?usp=share_link)
+---
 
-
-
-=======
 # UrbanGrocers-API-Testing  
 
 ## 📌 Overview  
