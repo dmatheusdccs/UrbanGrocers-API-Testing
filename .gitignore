@@ -1,0 +1,11 @@
+# eliminar del control de git
+git rm -r --cached __pycache__ .idea
+
+# agregar gitignore
+git add .gitignore
+
+# commit de limpieza
+git commit -m "Clean repo: remove IDE and cache files, add .gitignore"
+
+# subir cambios
+git push origin main   # (o tu rama actual)
