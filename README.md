@@ -153,4 +153,3 @@ Before running tests, make sure you have:
     { "id": 3, "qty": 3 }
   ]
 }
->>>>>>> 39ae0e95012cdaf15d2a1963ba6498f31a4dc06e
