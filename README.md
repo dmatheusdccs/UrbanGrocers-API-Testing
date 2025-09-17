@@ -39,6 +39,8 @@
 ![API Testing](https://img.shields.io/badge/API%20Testing-007ACC?style=for-the-badge)
 ![HTTP](https://img.shields.io/badge/HTTP-009688?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 ---
 
@@ -121,7 +123,7 @@ Before running tests, make sure you have:
 | P010   | Reject kit exceeding total product limit (30 max)      | `/api/v1/kits/6/products`                  | `400 Bad Request`     | 200 OK     | ❌ FAILED  |
 
 👉 Full evidence with detailed steps, payloads, validations, and results is documented in Google Sheets:  
-📎 [Sprint 4 Test Cases (JSON)](https://docs.google.com/spreadsheets/d/1EIoT3fpPra5E0-Ac9f7rUX0_qLcpxwEIY0Y8g8NbtMI/edit?usp=sharing))  
+📎 [Sprint 4 Test Cases (JSON)](https://docs.google.com/spreadsheets/d/1EIoT3fpPra5E0-Ac9f7rUX0_qLcpxwEIY0Y8g8NbtMI/edit?usp=sharing)  
 
 
 ## 🧾 Example JSON Payloads  
