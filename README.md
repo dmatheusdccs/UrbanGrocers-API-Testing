@@ -121,7 +121,7 @@ Before running tests, make sure you have:
 | P010   | Reject kit exceeding total product limit (30 max)      | `/api/v1/kits/6/products`                  | `400 Bad Request`     | 200 OK     | ❌ FAILED  |
 
 👉 Full evidence with detailed steps, payloads, validations, and results is documented in Google Sheets:  
-📎 [Sprint 4 Test Cases (JSON)](PUT-YOUR-GOOGLE-SHEET-LINK-HERE)  
+📎 [Sprint 4 Test Cases (JSON)](https://docs.google.com/spreadsheets/d/1EIoT3fpPra5E0-Ac9f7rUX0_qLcpxwEIY0Y8g8NbtMI/edit?usp=sharing))  
 
 
 ## 🧾 Example JSON Payloads  
